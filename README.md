@@ -1,7 +1,8 @@
 # AQuaSI
 
 This repository contains the implementation of the paper
- F. Schirrmacher, C. Riess and T. Köhler, "Adaptive Quantile Sparse Image (AQuaSI) Prior for Inverse Imaging Problems," in IEEE Transactions on Computational Imaging, vol. 6, pp. 503-517, 2020, doi: 10.1109/TCI.2019.2956888. [IEEE](https://ieeexplore.ieee.org/abstract/document/8931625) 
+
+F. Schirrmacher, C. Riess and T. Köhler, "Adaptive Quantile Sparse Image (AQuaSI) Prior for Inverse Imaging Problems," in IEEE Transactions on Computational Imaging, vol. 6, pp. 503-517, 2020, doi: 10.1109/TCI.2019.2956888. [IEEE](https://ieeexplore.ieee.org/abstract/document/8931625) 
 
 If you use this code in your work, please cite:
 
