@@ -12,7 +12,7 @@ To download the code, fork the repository or clone it using the following comman
 
 - **cpp**: This folder contains the .cpp files of the AQuaSI and QuaSI implementation
 
-- **data**: This folder contains all dataset for each of the experiments
+- **data**: This folder contains all dataset for each of the experiments (needs to be created)
 
 - **matlab**: The matlab folder contains the matlab source code of the experiments and the proposed algorithm
     - **algorithms**: 
@@ -24,6 +24,8 @@ To download the code, fork the repository or clone it using the following comman
     - **evaluation**: Contains the scripts for the experiments
 
     - **utility**: Contains helper functions
+
+- **results**: Folder to store the results (needs to be created)
 
 
 ### Mex function
