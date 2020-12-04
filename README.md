@@ -7,7 +7,7 @@ F. Schirrmacher, C. Riess and T. Köhler, "Adaptive Quantile Sparse Image (AQuaS
 If you use this code in your work, please cite:
 
         @ARTICLE{8931625,
-                author={F. {Schirrmacher} and C. {Riess} and T. {Köhler}},
+                author={F. {Schirrmacher} and C. {Riess} and T. {K\"ohler}},
                 journal={IEEE Transactions on Computational Imaging}, 
                 title={Adaptive Quantile Sparse Image (AQuaSI) Prior for Inverse Imaging Problems}, 
                 year={2020},
