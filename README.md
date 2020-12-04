@@ -15,7 +15,7 @@ To download the code, fork the repository or clone it using the following comman
 - **data**: This folder contains all dataset for each of the experiments
 
 - **matlab**: The matlab folder contains the matlab source code of the experiments and the proposed algorithm
-    - **matlab**: 
+    - **algorithms**: 
     
         - **MCAQuaSI** contains the implementation for multi-channel (color images) inverse problems 
 
